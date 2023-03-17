@@ -7,11 +7,6 @@
 ## Fullstack Developer | (Student)
 
 <font color="pink">Some Coffee :coffee: lots of `< code />` </font>
-
-## Reach out to me
-
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />]
-
 <br />
 
 
