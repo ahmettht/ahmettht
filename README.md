@@ -4,7 +4,7 @@
 
 ### Hi there, I'm Ahmet. :blush:
 
-## Fullstack Developer | (Student)
+## Fullstack Developer |
 
 <font color="pink">Some Coffee :coffee: lots of `< code />` </font>
 <br />
